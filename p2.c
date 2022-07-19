@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 	char		문자 (알파벳 하나)  A, B, C ...
 	*/
 	
-	int n;
+	int n = 0;
 	const int x = 123;
 	// fianl constant
 	
