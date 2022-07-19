@@ -1,5 +1,4 @@
 #include <stdio.h>
-//전처리기
 //std = standard, input output head
 
 // single line ccomment
